@@ -1,6 +1,6 @@
 ## Olá, me chamo Pedro Garrido! 
 ### Bem vindo ao meu perfil GitHub 👋
-<p><b>Sou do Rio de Janeiro, tenho 23 anos e atualmente estudo desenvolvimento full stack na Resilia educação.</b></p>
+<p><b>Sou do Rio de Janeiro, tenho 23 anos e atualmente estudo desenvolvimento full stack na Resilia educação e bacharelando em Engenharia de Software.</b></p>
 <p><b>Aqui estão algumas das tecnologias que estou aprendendo:</b></p>
 <ul>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/></li>
