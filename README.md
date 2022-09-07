@@ -1,14 +1,12 @@
-## Olá, me chamo Pedro Garrido! 
-### Bem vindo ao meu perfil GitHub 👋
-<p><b>Sou do Rio de Janeiro, tenho 23 anos e atualmente estudo desenvolvimento full stack na Resilia educação e bacharelando em Engenharia de Software.</b></p>
-<p><b>Aqui estão algumas das tecnologias que estou usando no momento:</b></p>
-<ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/></li>
+# Olá, me chamo Pedro Garrido! 
+## Bem vindo ao meu perfil GitHub 👋
+### Sou do Rio de Janeiro, tenho 23 anos, desenvolvedor Web Jr e bacharelando em Engenharia de Software.
+### Aqui estão algumas das tecnologias que estou utilizando no momento:
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/></li>  
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/></li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="33" height="33" /></li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"width="35" height="35" /></li> 
-</ul>
 
 ### LinkdIn:<div><a href="https://www.linkedin.com/in/pedro-garrido-1a8482205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>          
 
