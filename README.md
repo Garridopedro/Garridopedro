@@ -1,6 +1,6 @@
 # Olá, me chamo Pedro Garrido! 
 ## Bem vindo ao meu perfil GitHub 👋
-### Sou do Rio de Janeiro, tenho 23 anos, desenvolvedor Web Jr e bacharelando em Engenharia de Software.
+### Sou do Rio de Janeiro, tenho 24 anos, desenvolvedor Web Jr e bacharelando em Engenharia de Software.
 ### Aqui estão algumas das tecnologias que estou utilizando no momento:
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/></li>  
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/></li>
